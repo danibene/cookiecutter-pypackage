@@ -39,7 +39,7 @@ jobs:
 
       - name: build documentation
         run: |
-          poetry install -E dev
+          poetry install --with docs
           poetry run mkdocs build
 
       - name: publish documentation
