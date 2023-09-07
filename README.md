@@ -48,4 +48,14 @@ Then follow **[Tutorial](docs/tutorial.md)** to finish other configurations.
 
 # Credits
 
-This repo is forked from [zillionare/python-project-wizard](https://github.com/zillionare/python-project-wizard), which originally forked from [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
+This repository has its origins in the following templates:
+
+- [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage): The original project.
+
+- [waynerv/cookiecutter-pypackage](https://github.com/waynerv/cookiecutter-pypackage)
+
+- [zillionare/python-project-wizard](https://github.com/zillionare/python-project-wizard)
+
+- [luiscberrocal/cookiecutter-pypackage](https://github.com/luiscberrocal/cookiecutter-pypackage)
+
+- [danibene/cookiecutter-pypackage](https://github.com/danibene/cookiecutter-pypackage): The latest iteration of the template, incorporating the changes from the previous forks.
