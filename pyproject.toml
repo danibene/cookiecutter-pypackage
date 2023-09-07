@@ -1,16 +1,17 @@
 [tool]
 [tool.poetry]
-name = "cookiecutter-pypackage"
-version = "1.1.1"
+name = "cookiecutter_pypackage"
+version = "0.1.0"
 description = "Cookiecutter template for a Python package"
 license = "BSD-3-Clause"
-authors = ["Danielle Benesch <dbenesch@critias.ca>"]
+authors = ["Xie Wei <ampedee@gmail.com>", "Danielle Benesch <dbenesch@critias.ca>"]
 readme = "README.md"
-repository = "https://github.com/danibene/cookiecutter-pypackage"
-documentation = "https://danibene.github.io/cookiecutter-pypackage/"
+repository = "https://github.com/waynerv/cookiecutter-pypackage"
+documentation = "https://waynerv.github.io/cookiecutter-pypackage/"
 keywords = ['cookiecutter', 'template', 'package']
 
 include = [
+  'cookiecutter_pypackage',
   '{{cookiecutter.project_slug}}/**/*',
   'cookiecutter.json',
   'hooks/*'
